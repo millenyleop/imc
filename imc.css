@@ -1,0 +1,13 @@
+.texto{
+ background-color: rgb(218, 203, 231);
+ width: 500px;
+ height: 200px;
+ border-color: blueviolet;
+ padding: 15px;
+ border-radius: 10px 40px 10px;
+}
+.letras{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ color: black;
+ 
+}
